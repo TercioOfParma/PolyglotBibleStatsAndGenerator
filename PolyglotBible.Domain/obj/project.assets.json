@@ -1,11 +1,47 @@
 {
   "version": 3,
   "targets": {
-    "net7.0": {}
+    "net7.0": {
+      "NHunspell.Patched/1.2.5554": {
+        "type": "package",
+        "build": {
+          "build/NHunspell.Patched.targets": {}
+        },
+        "runtimeTargets": {
+          "runtimes/win7-x64/native/Hunspellx64.dll": {
+            "assetType": "native",
+            "rid": "win7-x64"
+          },
+          "runtimes/win7-x86/native/Hunspellx86.dll": {
+            "assetType": "native",
+            "rid": "win7-x86"
+          }
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "NHunspell.Patched/1.2.5554": {
+      "sha512": "EZ8rSp5oVCyBPrtzeV5lcqMJ0lERB9KbxUw5akszJ8XSehVGXld7vcQEmcQrCvKz3osGAXG8pXfl1KHFP8+e/g==",
+      "type": "package",
+      "path": "nhunspell.patched/1.2.5554",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "build/NHunspell.Patched.targets",
+        "lib/net/NHunspell.dll",
+        "lib/net/NHunspell.pdb",
+        "nhunspell.patched.1.2.5554.nupkg.sha512",
+        "nhunspell.patched.nuspec",
+        "runtimes/win7-x64/native/Hunspellx64.dll",
+        "runtimes/win7-x86/native/Hunspellx86.dll"
+      ]
+    }
+  },
   "projectFileDependencyGroups": {
-    "net7.0": []
+    "net7.0": [
+      "NHunspell.Patched >= 1.2.5554"
+    ]
   },
   "packageFolders": {
     "/home/elliot/.nuget/packages/": {}
@@ -43,6 +79,12 @@
     "frameworks": {
       "net7.0": {
         "targetAlias": "net7.0",
+        "dependencies": {
+          "NHunspell.Patched": {
+            "target": "Package",
+            "version": "[1.2.5554, )"
+          }
+        },
         "imports": [
           "net461",
           "net462",

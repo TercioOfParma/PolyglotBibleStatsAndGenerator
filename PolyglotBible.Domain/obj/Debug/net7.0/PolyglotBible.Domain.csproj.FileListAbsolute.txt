@@ -1,0 +1,17 @@
+/home/elliot/github/PolyglotBibleGenerator/PolyglotBible.Domain/bin/Debug/net7.0/PolyglotBible.Domain
+/home/elliot/github/PolyglotBibleGenerator/PolyglotBible.Domain/bin/Debug/net7.0/PolyglotBible.Domain.deps.json
+/home/elliot/github/PolyglotBibleGenerator/PolyglotBible.Domain/bin/Debug/net7.0/PolyglotBible.Domain.runtimeconfig.json
+/home/elliot/github/PolyglotBibleGenerator/PolyglotBible.Domain/bin/Debug/net7.0/PolyglotBible.Domain.dll
+/home/elliot/github/PolyglotBibleGenerator/PolyglotBible.Domain/bin/Debug/net7.0/PolyglotBible.Domain.pdb
+/home/elliot/github/PolyglotBibleGenerator/PolyglotBible.Domain/bin/Debug/net7.0/NHunspell.dll
+/home/elliot/github/PolyglotBibleGenerator/PolyglotBible.Domain/obj/Debug/net7.0/PolyglotBible.Domain.csproj.AssemblyReference.cache
+/home/elliot/github/PolyglotBibleGenerator/PolyglotBible.Domain/obj/Debug/net7.0/PolyglotBible.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/elliot/github/PolyglotBibleGenerator/PolyglotBible.Domain/obj/Debug/net7.0/PolyglotBible.Domain.AssemblyInfoInputs.cache
+/home/elliot/github/PolyglotBibleGenerator/PolyglotBible.Domain/obj/Debug/net7.0/PolyglotBible.Domain.AssemblyInfo.cs
+/home/elliot/github/PolyglotBibleGenerator/PolyglotBible.Domain/obj/Debug/net7.0/PolyglotBible.Domain.csproj.CoreCompileInputs.cache
+/home/elliot/github/PolyglotBibleGenerator/PolyglotBible.Domain/obj/Debug/net7.0/PolyglotBible.Domain.csproj.CopyComplete
+/home/elliot/github/PolyglotBibleGenerator/PolyglotBible.Domain/obj/Debug/net7.0/PolyglotBible.Domain.dll
+/home/elliot/github/PolyglotBibleGenerator/PolyglotBible.Domain/obj/Debug/net7.0/refint/PolyglotBible.Domain.dll
+/home/elliot/github/PolyglotBibleGenerator/PolyglotBible.Domain/obj/Debug/net7.0/PolyglotBible.Domain.pdb
+/home/elliot/github/PolyglotBibleGenerator/PolyglotBible.Domain/obj/Debug/net7.0/PolyglotBible.Domain.genruntimeconfig.cache
+/home/elliot/github/PolyglotBibleGenerator/PolyglotBible.Domain/obj/Debug/net7.0/ref/PolyglotBible.Domain.dll

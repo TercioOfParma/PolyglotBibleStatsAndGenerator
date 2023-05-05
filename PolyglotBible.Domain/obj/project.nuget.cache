@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "oPok2a7tqcULljzzd07E6FFYIRcqll6XvmW1XS3tZyk49aUiUqc6W63ubkjfNqRQ+8L3XXuCHhcIOrXAAEtcHg==",
+  "dgSpecHash": "1AnzwMeChk5wvgQOUMytvO7SL4OzaXX0hdJzFlx8K2LFPUKQZY+J21JMscpoy2Jw36DJzSysEsCSnrrEWRqF0w==",
   "success": true,
   "projectFilePath": "/home/elliot/github/PolyglotBibleGenerator/PolyglotBible.Domain/PolyglotBible.Domain.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/home/elliot/.nuget/packages/nhunspell.patched/1.2.5554/nhunspell.patched.1.2.5554.nupkg.sha512"
+  ],
   "logs": []
 }
